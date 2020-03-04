@@ -4,11 +4,11 @@ module.exports = {
     version: '1.0.0-Beta',
     
     //Change anything below this line
-    client_secret: 'this_is_a_super_secret_session_sescret_._you_should_change_this',
+    client_secret: 'sajdhasjkfhasdlkjfhlaskdjhflaksjdhfvcalsdkbjfal',
     port: 8080,
     
     clientSettings: {
-        isWhitelisted: false,
+        isWhitelisted: true,
         latestVersion: "1.0.0"
         /*Add anything here you want to be included in /api/globalSettings*/
     }
